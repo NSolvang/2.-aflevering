@@ -1,0 +1,65 @@
+
+#content{
+   border: 2px solid black;
+   background-color: lightgray;
+   color: rgb(23, 70, 140);
+   border-radius: 1%;
+   position: absolute;
+   left: 150px;
+   text-align: center;
+   width: 1000px;
+   top: 20px;
+   height: 520px;
+   font-size: 20px;
+}
+
+#albumInfo{
+   border-right: 2px solid black;
+   position: absolute;
+   left: 0px;
+   width: 500px;
+   height: 520px;
+}
+
+#trackList{
+   border-left: 2px solid black;
+   position: absolute;
+   left: 500px;
+   width: 500px;
+   height: 520px;
+}
+
+#streg{
+   border: 1px solid black;
+   position: absolute;
+   top: 80px;
+   width: 100%;
+}
+
+h1{
+   color: black;
+}
+
+.buttonStyle{
+   background-color: lightgray;
+   border: 2px solid black;
+   color: rgb(23, 70, 140);
+   border-radius: 5%;
+   width: 120px;
+   height: 30px;
+}
+
+button:hover{
+   background-color: darkgray;
+   width: 135px;
+   font-size: 15px;
+}
+
+img{
+   width: 200px;
+   height: 200px;
+}
+
+
+
+
